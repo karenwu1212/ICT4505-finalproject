@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/</loc>
+  <lastmod>2014-11-11T00:59:02+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/index.html</loc>
+  <lastmod>2014-11-11T00:59:02+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/photos.html</loc>
+  <lastmod>2014-11-11T00:59:02+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/floorplans.html</loc>
+  <lastmod>2014-11-11T00:59:01+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/amenities.html</loc>
+  <lastmod>2014-11-11T00:59:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/residents.html</loc>
+  <lastmod>2014-11-11T00:59:02+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/location.html</loc>
+  <lastmod>2014-11-11T00:59:02+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/images/TAA%20Rental%20Application.pdf</loc>
+  <lastmod>2014-11-11T00:59:02+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mysite.du.edu/~ywu74/kwu-sastationapts/contact.html</loc>
+  <lastmod>2014-11-11T00:59:00+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>
